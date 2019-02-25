@@ -1,4 +1,4 @@
-body{background-image: url("http://sd4510.com.tw/tmp/files/gallery/final/172_x.jpg?v=1440152467");
+body{background-image: url("https://static-cdn.jtvnw.net/jtv_user_pictures/e91a3dcf-c15a-441a-b369-996922364cdc-profile_image-300x300.png");
 background-size : 100% auto;
  } 
 .pic {
@@ -9,29 +9,29 @@ background-size : 100% auto;
 } 
 #maintitle {
     position:absolute;
-    top: 300px;
-    left: 610px;
+    top: 180px;
+    left: 300px;
 }
   #maintitle h1 {
-    color: white;
+    color: orangered;
     font-size: 60px;
     font-family: monospace;
     background: transparent;
     text-align: center;
 }
 .ncku h2 {
-    color: white;
+    color: orangered;
     padding-left:45px;
     margin-top: 25px;
 }
 #aaa {
    
         position:absolute;
-    top: 150px;
-    left: 850px;
+    top: 10px;
+    left: 1450px;
 }
 #aaa a {
-    color: black;
+    color: white;
 }
 #aaa a:hover{
     background-color: red;
@@ -39,23 +39,21 @@ background-size : 100% auto;
 #bbb {
     
     position:absolute;
-    top: 150px;
-    left: 930px;
+    top: 10px;
+    left: 1350px;
 }
 #bbb a {
-    color: black;
+    color: white;
 }
-#bbb a:hover{
-    background-color: red;
-}
+
 #ccc {
     
       position:absolute;
-    top: 150px;
-    left: 1010px;
+    top: 10px;
+    left: 1250px;
 }
 #ccc a {
-    color: black;
+    color: white;
 }
 #ccc a:hover{
     background-color: red;
@@ -63,20 +61,29 @@ background-size : 100% auto;
 .page h3 {
     
       position:absolute;
-    top: 150px;
+    top: 130px;
     left: 400px;
+}
+.page h3 {
+    color: whitesmoke;
 }
 .plat h3 {
 
       position:absolute;
-    top: 520px;
+    top: 600px;
     left: 705px;
+}
+.plat h3 {
+    color: white
 }
 .end h3 {
 
       position:absolute;
-    top: 520px;
-    left: 1010px;
+    top: 600px;
+    left: 1100px;
+}
+.end h3{
+    color:grey
 }
 
 
