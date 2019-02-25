@@ -18,4 +18,20 @@ background-size : 100% auto;
     padding-left:45px;
     margin-top: 25px;
 }
+#aaa {
+    background: url("https://static-cdn.jtvnw.net/jtv_user_pictures/e91a3dcf-c15a-441a-b369-996922364cdc-profile_image-300x300.png");
+    width: 75px;
+    height: 25px;
+    text-align: center;
+    position: relative;
+    float: right;
+    top: -45px;
+    right: 30px;
+}
+#aaa a {
+    color: aliceblue;
+}
+#aaa a:hover{
+    background-color: blue;
+}
 
