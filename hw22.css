@@ -63,8 +63,15 @@ background-size : 100% auto;
 .plat h3 {
 
       position:absolute;
-    top: 450px;
+    top: 520px;
     left: 705px;
 }
+.end h3 {
+
+      position:absolute;
+    top: 520px;
+    left: 1010px;
+}
+
 
 
