@@ -1,1 +1,3 @@
-body{background-image: url("https://cdn-images-1.medium.com/max/1000/1*tU1rn0s3uC1yO1qkku-Y-Q.gif")}
+body{background-image: url("https://cdn-images-1.medium.com/max/1000/1*tU1rn0s3uC1yO1qkku-Y-Q.gif");
+background-size : 100% auto;
+}
