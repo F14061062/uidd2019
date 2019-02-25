@@ -20,10 +20,9 @@ background-size : 100% auto;
 }
 #aaa {
    
-    position: relative;
-    float: right;
-    top: -45px;
-    right: 30px;
+        position:absolute;
+    top: 150px;
+    left: 9100px;
 }
 #aaa a {
     color: black;
@@ -45,10 +44,9 @@ background-size : 100% auto;
 }
 #ccc {
     
-    position: relative;
-    float: right;
-    top: -45px;
-    right: 10px;
+      position:absolute;
+    top: 150px;
+    left: 950px;
 }
 #ccc a {
     color: black;
