@@ -6,4 +6,11 @@ background-size : 100% auto;
     top: 300px;
     left: 610px;
 }
+  #maintitle h1 {
+    color: white;
+    font-size: 60px;
+    font-family: monospace;
+    background: transparent;
+    text-align: center;
+}
 }
