@@ -1,3 +1,9 @@
 body{background-image: url("http://sd4510.com.tw/tmp/files/gallery/final/172_x.jpg?v=1440152467");
 background-size : 100% auto;
+  
+ #maintitle {
+    position:absolute;
+    top: 300px;
+    left: 610px;
+}
 }
