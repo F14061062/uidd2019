@@ -54,3 +54,11 @@ background-size : 100% auto;
 #ccc a:hover{
     background-color: red;
 }
+.page h3 {
+    
+      position:absolute;
+    top: 150px;
+    left: 400px;
+}
+
+
