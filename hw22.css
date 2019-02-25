@@ -1,12 +1,6 @@
 body{background-image: url("http://www.kphoto.com.tw/image/catalog/Product/ASS/44_jet.gif");
 background-size : 100% auto;
  }
-.abc {
-width: 1000px;
- height: 1000px;
- 
- 
-}
 .pic {
  position:absolute;
     top: 150px;
